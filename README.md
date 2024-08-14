@@ -6,9 +6,12 @@
 
 <p align="center">Eu sou Desenvolvedor Front-End e sou Apaixonado por tecnologia. 💻 <br><br> Sou um desenvolvedor Front-End. Tenho conhecimento em HTML, CSS, JavaScript e outros... Atualmente trabalho como Freelancer desenvolvendo projetos com essas tecnologias. Gosto de desafios, trabalhar em equipe, resolver problemas trazendo soluções.</p>&nbsp;
 
+
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-Ailton100.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compac" />
+ 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ailton100_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Ailton100&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ailton100)](https://github.com/anuraghazra/github-readme-stats)
 
  </div>
  
